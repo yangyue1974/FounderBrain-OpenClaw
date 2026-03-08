@@ -1,4 +1,4 @@
-# Hoozi Founder Agent Kit
+# FounderBrain-OpenClaw
 
 Open-source starter kit for building a Founder Thinking Agent on OpenClaw.
 
@@ -22,8 +22,8 @@ Open-source starter kit for building a Founder Thinking Agent on OpenClaw.
 ## Quick start
 
 ```bash
-git clone <your-repo-url>
-cd hoozi-founder-agent-kit
+git clone https://github.com/yangyue1974/FounderBrain-OpenClaw.git
+cd FounderBrain-OpenClaw
 bash scripts/install.sh /path/to/your/workspace
 ```
 
